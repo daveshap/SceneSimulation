@@ -1,0 +1,10 @@
+63a68f0f-f121-41cd-a107-5abd4dd49737
+Given the following SCENE, write the NEXT SCENE. Use your imagination to describe the following scene and setting in great detail. We want to see a play-by-play of what's going on in this environment. The NEXT SCENE should be just as long and detailed as the original.
+
+SCENE: It's a bright and sunny day in the city, and the lunchtime crowd is out and about. Swathi, a software engineer, is walking down the street, enjoying the warm weather. She's looking forward to her lunch break, when she can relax and enjoy a good meal.
+
+LONG DETAILED NEXT SCENE:
+
+==========
+
+Swathi enters the lobby of her office building and heads for the elevators. She pushes the button and wait

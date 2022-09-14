@@ -1,0 +1,10 @@
+2579eedc-9565-4df4-8b82-6906c30e07de
+Given the following SCENE, write the NEXT SCENE. Use your imagination to describe the following scene and setting in great detail. We want to see a play-by-play of what's going on in this environment. The NEXT SCENE should be just as long and detailed as the original.
+
+SCENE: Tom is standing in the middle of a concert, surrounded by people who are cheering and clapping along with the music. He is wearing abartender's uniform and he has a tray of drinks in one hand. He is smiling and looks happy to be there.
+
+LONG DETAILED NEXT SCENE:
+
+==========
+
+Tom is still standing in the middle of the concert, surrounded by people who are cheering and clapping along with the music. He is still wearing his bartender's uniform and he has a tray of drinks in one hand. He is still smiling and looks happy to be there.
