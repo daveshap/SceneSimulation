@@ -45,8 +45,8 @@ def finetune_get(ftid):
 
 
 
-resp = file_upload('scenes.jsonl')
-finetune_model(resp['id'], 'scene-sim', 'davinci')
+#resp = file_upload('scenes.jsonl')
+#finetune_model(resp['id'], 'scene-sim', 'davinci')
 finetune_list()
 
 #openai.FineTune.cancel("ft-2ZxHjUVe5DpqK2EsYyA0YtKz")
